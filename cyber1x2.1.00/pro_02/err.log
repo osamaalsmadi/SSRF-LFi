@@ -1,0 +1,22 @@
+docker: 'docker stop' requires at least 1 argument
+
+Usage:  docker stop [OPTIONS] CONTAINER [CONTAINER...]
+
+See 'docker stop --help' for more information
+docker: 'docker rm' requires at least 1 argument
+
+Usage:  docker rm [OPTIONS] CONTAINER [CONTAINER...]
+
+See 'docker rm --help' for more information
+time="2026-10-25T09:41:43+03:00" level=warning msg="/home/oalsmadi/professional_training/module01/ex02/cyber1x2.1.00/pro_02/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2026-10-25T09:41:43+03:00" level=warning msg="/home/oalsmadi/professional_training/module01/ex02/cyber1x2.1.00/pro_02/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Image pro_02-ssrf-lfi-app Building 
+ Image pro_02-ssrf-lfi-app Built 
+ Network pro_02_default Creating 
+ Network pro_02_default Creating 
+ Network pro_02_default Created 
+ Network pro_02_default Created 
+ Container pro_02-ssrf-lfi-app-1 Creating 
+ Container pro_02-ssrf-lfi-app-1 Created 
+ Container pro_02-ssrf-lfi-app-1 Starting 
+ Container pro_02-ssrf-lfi-app-1 Started 
